@@ -1,1 +1,2 @@
-<img width="800" height="521" alt="Bachelor" src="https://github.com/user-attachments/assets/d8bc28e2-103d-486e-86c5-fc0dbe7d312b" />
+<img width="3200" height="2084" alt="Bachelor_upscaled" src="https://github.com/user-attachments/assets/1a10874b-7084-4563-b3cd-7706b11d21b1" />
+
